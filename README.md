@@ -18,3 +18,5 @@ All projects vary in complexity and were created to practice Python programming 
 
 ### Note:
 For implementing these projects, reading the [Turtle module documentation](https://docs.python.org/3/library/turtle.html) is compulsory.
+
+Developed with ❤️ by Hari💫
